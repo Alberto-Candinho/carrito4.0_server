@@ -1,0 +1,419 @@
+[
+	{
+		"id": 1,
+		"nome": "Gamba Pelada Mediana 70/88",
+		"marca": "IFA ELIGES",
+		"categoria": "Conxelados",
+		"precio": 4.15,
+		"descripcion": "360 g PN. (11.53€ Kilo)"
+	},
+	{
+		"id": 2,
+		"nome": "Vieira Pacífico Concha Extra Grande",
+		"marca": "NOVAS Y MAR",
+		"categoria": "Conxelados",
+		"precio": 8.99,
+		"descripcion": "10 uds. (0.90€ Unidade)"
+	},
+	{
+		"id": 3,
+		"nome": "Buñuelos de Bacalao",
+		"marca": "PESCANOVA",
+		"categoria": "Conxelados",
+		"precio": 2.59,
+		"descripcion": "300 g (8.63€ Kilo)"
+	},
+	{
+		"id": 4,
+		"nome": "Vieira del Pacífico Media Concha",
+		"marca": "NOVAS Y MAR",
+		"categoria": "Conxelados",
+		"precio": 6.49,
+		"descripcion": "12 uds. (0.54€ Unidad)"
+	},
+	{
+		"id": 5,
+		"nome": "Anilla Pota Congelada",
+		"marca": "IFA ELIGES",
+		"categoria": "Conxelados",
+		"precio": 3.29,
+		"descripcion": "400 g (8.23€ Kilo)"
+	},
+	{
+		"id": 6,
+		"nome": "Chipiron Patagonico Extra",
+		"marca": "gadis",
+		"categoria": "Peixaria",
+		"precio": 5.90,
+		"descripcion": "Precio por kilo"
+	},
+	{
+		"id": 7,
+		"nome": "Langostino Crudo y Cocido Grande 30/40",
+		"marca": "gadis",
+		"categoria": "Peixaria",
+		"precio": 8.90,
+		"descripcion": "Precio por kilo"
+	},
+	{
+		"id": 8,
+		"nome": "Lomos de Bacalao Desalado",
+		"marca": "gadis",
+		"categoria": "Peixaria",
+		"precio": 12.90,
+		"descripcion": "Precio por kilo"
+	},
+	{
+		"id": 9,
+		"nome": "Lubina Acuicultura",
+		"marca": "gadis",
+		"categoria": "Peixaria",
+		"precio": 7.75,
+		"descripcion": "Precio por kilo"
+	},
+	{
+		"id": 10,
+		"nome": "Ternera para Asar sin Hueso",
+		"marca": "gadis",
+		"categoria": "Carnizaria",
+		"precio": 7.99,
+		"descripcion": "Precio por kilo"
+	},
+	{
+		"id": 11,
+		"nome": "Falda de Ternera con Hueso",
+		"marca": "gadis",
+		"categoria": "Carnizaria",
+		"precio": 7.25,
+		"descripcion": "Precio por kilo"
+	},
+	{
+		"id": 12,
+		"nome": "Burger Meat Estilo Casero",
+		"marca": "gadis",
+		"categoria": "Carnizaria",
+		"precio": 6.85,
+		"descripcion": "Precio por kilo"
+	},
+	{
+		"id": 13,
+		"nome": "Filetes de Cerdo",
+		"marca": "gadis",
+		"categoria": "Carnizaria",
+		"precio": 4.45,
+		"descripcion": "Precio por kilo"
+	},
+	{
+		"id": 14,
+		"nome": "Traseros de Pollo",
+		"marca": "gadis",
+		"categoria": "Carnizaria",
+		"precio": 2.15,
+		"descripcion": "Precio por kilo"
+	},
+	{
+		"id": 15,
+		"nome": "Chuletas de Contramuslo de Pavo",
+		"marca": "gadis",
+		"categoria": "Carnizaria",
+		"precio": 5.75,
+		"descripcion": "Precio por kilo"
+	},
+	{
+		"id": 16,
+		"nome": "Centro Jamon Serrano Gran Reserva 18 Meses Curacion",
+		"marca": "MONTETUR",
+		"categoria": "Chacineria",
+		"precio": 10.95,
+		"descripcion": "Precio por kilo"
+	},
+	{
+		"id": 17,
+		"nome": "Jamon Cocido Braseado Premier",
+		"marca": "ARGAL",
+		"categoria": "Chacineria",
+		"precio": 5.99,
+		"descripcion": "Precio por kilo"
+	},
+	{
+		"id": 18,
+		"nome": "Fiambre Sandwich 11 x 11 sin Gluten",
+		"marca": "EL POZO",
+		"categoria": "Chacineria",
+		"precio": 4.95,
+		"descripcion": "Precio por kilo"
+	},
+	{
+		"id": 19,
+		"nome": "Chorizo o Salchichon Extra Cular Salamanca",
+		"marca": "DIAZ",
+		"categoria": "Chacineria",
+		"precio": 10.95,
+		"descripcion": "Precio por kilo"
+	},
+	{
+		"id": 20,
+		"nome": "Lomo de Cebo 50% Raza Iberica",
+		"marca": "ESENCIA",
+		"categoria": "Chacineria",
+		"precio": 29.95,
+		"descripcion": "Precio por kilo"
+	},
+	{
+		"id": 21,
+		"nome": "Queso Viejo de Oveja",
+		"marca": "FLOR DE ESGUEVA",
+		"categoria": "Queixos",
+		"precio": 13.92,
+		"descripcion": "Precio por kilo"
+	},
+	{
+		"id": 22,
+		"nome": "Queso Barra",
+		"marca": "MONTECASTILLO",
+		"categoria": "Queixos",
+		"precio": 5.95,
+		"descripcion": "Precio por kilo"
+	},
+	{
+		"id": 23,
+		"nome": "Queso Semicurado",
+		"marca": "EL GRAN CARDENAL",
+		"categoria": "Queixos",
+		"precio": 8.95,
+		"descripcion": "Precio por kilo"
+	},
+	{
+		"id": 24,
+		"nome": "Queso D.O. Arzua-Ulloa Pieza Grande",
+		"marca": "ANDOLINA",
+		"categoria": "Queixos",
+		"precio": 5.99,
+		"descripcion": "Precio por kilo"
+	},
+	{
+		"id": 25,
+		"nome": "Queso Fresco",
+		"marca": "EL VENTERO",
+		"categoria": "Queixos",
+		"precio": 5.50,
+		"descripcion": "Precio por kilo"
+	},
+	{
+		"id": 26,
+		"nome": "Mango Palmer",
+		"marca": "gadis",
+		"categoria": "Froitaría",
+		"precio": 1.85,
+		"descripcion": "Categoría 1ª (420-620 g).\n Precio por kilo"
+	},
+	{
+		"id": 27,
+		"nome": "Kiwi Hayward",
+		"marca": "gadis",
+		"categoria": "Froitaría",
+		"precio": 1.89,
+		"descripcion": "(105-115 g).\n Precio por kilo"
+	},
+	{
+		"id": 28,
+		"nome": "Platano Ecologico",
+		"marca": "gadis",
+		"categoria": "Froitaría",
+		"precio": 1.49,
+		"descripcion": "16 cm.\n Precio por kilo"
+	},
+	{
+		"id": 29,
+		"nome": "Limon",
+		"marca": "gadis",
+		"categoria": "Froitaría",
+		"precio": 0.95,
+		"descripcion": "Categoria 1ª. Calibre 58/72 mm.\n Precio por kilo"
+	},
+	{
+		"id": 30,
+		"nome": "Manzana Royal Gala",
+		"marca": "gadis",
+		"categoria": "Froitaría",
+		"precio": 1.19,
+		"descripcion": "Categoria 1ª. Calibre 75/90 mm.\n Precio por kilo"
+	},
+	{
+		"id": 31,
+		"nome": "Yogur Vitalinea",
+		"marca": "DANONE",
+		"categoria": "Neveira",
+		"precio": 1.00,
+		"descripcion": "Natural, Natural Edulcorado, Sabor Limon, Fresa, Piña, Coco o Frutas del bosque\n Pack 4 x 120 g (2.08€ Kilo)"
+	},
+	{
+		"id": 32,
+		"nome": "Bifidus Activia Cremoso",
+		"marca": "DANONE",
+		"categoria": "Neveira",
+		"precio": 1.69,
+		"descripcion": "0% Vainilla, Lima Limon, Coco, 0% Cocktail Frutas, 0% Frutos Silvestres o 0% Mango\n Pack 4 x 120 g (3.52€ Kilo)"
+	},
+	{
+		"id": 33,
+		"nome": "Mantequilla",
+		"marca": "C.L.ASTURIANA",
+		"categoria": "Neveira",
+		"precio": 1.99,
+		"descripcion": "250 g (7.96€ Kilo)"
+	},
+	{
+		"id": 34,
+		"nome": "Nata Montar",
+		"marca": "C.L.ASTURIANA",
+		"categoria": "Neveira",
+		"precio": 3.15,
+		"descripcion": "Brik 1 L"
+	},
+	{
+		"id": 35,
+		"nome": "Napolitana",
+		"marca": "IFA ELIGES",
+		"categoria": "Panadaria",
+		"precio": 0.85,
+		"descripcion": "Bolsa 8 uds, 320 g\n(2.66€ Kilo)"
+	},
+	{
+		"id": 36,
+		"nome": "Magdalenas Redondas Envoltorio Individual",
+		"marca": "HERAS",
+		"categoria": "Panadaria",
+		"precio": 1.85,
+		"descripcion": "800 g (2.31€ Kilo)"
+	},
+	{
+		"id": 37,
+		"nome": "Donuts XO Dabiz Muñoz",
+		"marca": "DONUTS",
+		"categoria": "Panadaria",
+		"precio": 1.59,
+		"descripcion": "2 uds., 146 g\n(10.89€ Kilo)"
+	},
+	{
+		"id": 38,
+		"nome": "Pan Sandwich Familiar",
+		"marca": "BIMBO",
+		"categoria": "Panadaria",
+		"precio": 1.69,
+		"descripcion": "700 g (2.41€ Kilo)"
+	},
+	{
+		"id": 39,
+		"nome": "Mediterraneas",
+		"marca": "SNATT'S",
+		"categoria": "Panadaria",
+		"precio": 1.00,
+		"descripcion": "Olivas y Romero o Tomate-Finas Hierbas\n110 g (9.09€ Kilo)"
+	},
+	{
+		"id": 40,
+		"nome": "Leche Entera",
+		"marca": "FEIRACO",
+		"categoria": "Alimentacion",
+		"precio": 0.76,
+		"descripcion": "Brik 1 L"
+	},
+	{
+		"id": 41,
+		"nome": "Leche",
+		"marca": "FEIRACO",
+		"categoria": "Alimentacion",
+		"precio": 0.73,
+		"descripcion": "Semidesnatada o Destanada\nBrik 1 L"
+	},
+	{
+		"id": 42,
+		"nome": "Cacao Soluble",
+		"marca": "COLA CAO",
+		"categoria": "Alimentacion",
+		"precio": 6.45,
+		"descripcion": "Ecobolsa 1.2 Kg\n5.38€ Kilo"
+	},
+	{
+		"id": 43,
+		"nome": "Galletas Napolitanas",
+		"marca": "CUETARA",
+		"categoria": "Alimentacion",
+		"precio": 1.59,
+		"descripcion": "Caja 500 g (3.18€ Kilo)"
+	},
+	{
+		"id": 44,
+		"nome": "Aceite Oliva Virgen Extra",
+		"marca": "CARBONELL",
+		"categoria": "Alimentacion",
+		"precio": 3.39,
+		"descripcion": "Botella 1 L"
+	},
+	{
+		"id": 45,
+		"nome": "Alimento para Perro Adulto Active Buey",
+		"marca": "FRISKIES",
+		"categoria": "Mascotas",
+		"precio": 17.95,
+		"descripcion": "15 Kg (1.20€ Kilo)"
+	},
+	{
+		"id": 46,
+		"nome": "Alimento Periquitos",
+		"marca": "IFA AMIGO",
+		"categoria": "Mascotas",
+		"precio": 0.60,
+		"descripcion": "500 g (1.20€ Kilo)"
+	},
+	{
+		"id": 47,
+		"nome": "Alimento Gato Mousse",
+		"marca": "IFA AMIGO",
+		"categoria": "Mascotas",
+		"precio": 0.35,
+		"descripcion": "Con Buey, Salmon y gambas o con Atun \n85 g (4.12€ Kilo)"
+	},
+	{
+		"id": 48,
+		"nome": "Agua Mineral Natural",
+		"marca": "IFA ELIGES",
+		"categoria": "Bebidas",
+		"precio": 0.14,
+		"descripcion": "500 ml (0.28€ Kilo)"
+	},
+	{
+		"id": 49,
+		"nome": "Refresco Normal",
+		"marca": "COCA-COLA",
+		"categoria": "Bebidas",
+		"precio": 1.19,
+		"descripcion": "Botella 1.25 L (0.95€ Kilo)"
+	},
+	{
+		"id": 50,
+		"nome": "Cerveza 1906",
+		"marca": "ESTRELLA GALICIA",
+		"categoria": "Bebidas",
+		"precio": 10.90,
+		"descripcion": "Botella pack 12 x 33 cl\n (2.75€ Kilo)"
+	},
+	{
+		"id": 51,
+		"nome": "Ron",
+		"marca": "BRUGAL",
+		"categoria": "Bebidas",
+		"precio": 16.39,
+		"descripcion": "Botella 1 L"
+	},
+	{
+		"id": 52,
+		"nome": "Refresco",
+		"marca": "KAS",
+		"categoria": "Bebidas",
+		"precio": 3.15,
+		"descripcion": "Naranja o Limon \n Lata Pack 9x33 cl\n(1.06€ Litro)"
+	}
+
+]

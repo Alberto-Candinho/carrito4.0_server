@@ -8,29 +8,37 @@ import codecs
 app = Flask(__name__)
 
 @app.route('/', methods = ['GET'])
-def get_subcategories():
+def get_categories():
     return jsonify(
             status=200,
-            categories=catalogue_store.get_subcategories()
+            categories=catalogue_store.get_categories()
     )
 
 
-@app.route('/<subcategory>/<tag>', methods = ['GET'])
-def get_products(tag, subcategory):
-    if(catalogue_store.has_tag_for_subcategory(tag, subcategory)):
+@app.route('/<category>', methods = ['GET'])
+def get_products(category):
+    if(catalogue_store.has_category(category)):
         return jsonify(
             status=200,
-            products=catalogue_store.get_products(tag, subcategory)
-        )
-    elif(catalogue_store.has_subcategory(subcategory)):
-        return jsonify(
-            status=404,
-            products='Tag ' + str(tag) + ' not present in subcategory ' + str(subcategory)
+            products=catalogue_store.get_products(category)
         )
     else:
         return jsonify(
             status=404,
-            products='Subcategory ' + str(subcategory) + ' not found'
+            products='Category ' + str(category) + ' not found'
+        )
+
+@app.route('/id/<id_number>', methods = ['GET'])
+def get_id(id_number):
+    if(catalogue_store.has_id(id_number)):
+        return jsonify(
+            status=200,
+            info=catalogue_store.get_id(id_number)
+        )
+    else:
+        return jsonify(
+            status=404,
+            info='There is no element with id ' + str(id_number)
         )
 
 app.run(host='192.168.8.106', port= 8090)

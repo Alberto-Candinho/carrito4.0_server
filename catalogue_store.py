@@ -1,36 +1,29 @@
 import json
 import pandas as pd
 
-catalogue = pd.read_csv("catalogue.csv")
+catalogue = pd.read_csv("catalogo_gadis.csv")
 
-def get_subcategories():
-    subcategories = []
-    for subcategory in catalogue["subcategory"]:
-        if not any(subcategory_dict['name'] ==  subcategory for subcategory_dict in subcategories):
-            tags = get_tags_for_subcategory(subcategory)
-            subcategory_dict = {
-                "name": subcategory,
-                "tags": tags
+def get_categories():
+    categories = []
+    for category in catalogue["categoria"]:
+        if not any(category_dict['nome'] ==  category for category_dict in categories):
+            category_dict = {
+                "nome": category,
             }
-            subcategories.append(subcategory_dict)
-    return subcategories
+            categories.append(category_dict)
+    return categories
 
-def get_tags_for_subcategory(subcategory):
-    tags = []
-    subcatalogue = catalogue[catalogue["subcategory"] == subcategory]
-    for tag in subcatalogue["tags"]:
-        if tag not in tags:
-            tags.append(tag)
-    return tags
-
-def get_products(tag, subcategory):
-    products = []
-    subcatalogue = catalogue[(catalogue["subcategory"] == subcategory) & (catalogue["tags"] == tag)]
+def get_products(category):
+    subcatalogue = catalogue[catalogue["categoria"] == category]
     return subcatalogue.to_dict(orient="records") 
 
-def has_subcategory(subcategory):
-    return (catalogue["subcategory"] == subcategory).any()
+def get_id(id_number):
+    id_info = catalogue[catalogue["id"] == int(id_number)]
+    return id_info.to_dict(orient="records") 
 
-def has_tag_for_subcategory(tag, subcategory):
-    return ((catalogue["subcategory"] == subcategory) & (catalogue["tags"] == tag)).any()
+def has_category(category):
+    return (catalogue["categoria"] == category).any()
+
+def has_id(id_number):
+    return (catalogue["id"] == int(id_number)).any()
 
