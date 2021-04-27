@@ -1,69 +1,69 @@
-id,nome,marca,categoria,precio,descripcion
-1,Gamba Pelada Mediana 70/88,IFA ELIGES,Conxelados,4.15,360 g PN. (11.53€ Kilo)
-2,Vieira Pacífico Concha Extra Grande,NOVAS Y MAR,Conxelados,8.99,10 uds. (0.90€ Unidade)
-3,Buñuelos de Bacalao,PESCANOVA,Conxelados,2.59,300 g (8.63€ Kilo)
-4,Vieira del Pacífico Media Concha,NOVAS Y MAR,Conxelados,6.49,12 uds. (0.54€ Unidad)
-5,Anilla Pota Congelada,IFA ELIGES,Conxelados,3.29,400 g (8.23€ Kilo)
-6,Chipiron Patagonico Extra,gadis,Peixaria,5.9,Precio por kilo
-7,Langostino Crudo y Cocido Grande 30/40,gadis,Peixaria,8.9,Precio por kilo
-8,Lomos de Bacalao Desalado,gadis,Peixaria,12.9,Precio por kilo
-9,Lubina Acuicultura,gadis,Peixaria,7.75,Precio por kilo
-10,Ternera para Asar sin Hueso,gadis,Carnizaria,7.99,Precio por kilo
-11,Falda de Ternera con Hueso,gadis,Carnizaria,7.25,Precio por kilo
-12,Burger Meat Estilo Casero,gadis,Carnizaria,6.85,Precio por kilo
-13,Filetes de Cerdo,gadis,Carnizaria,4.45,Precio por kilo
-14,Traseros de Pollo,gadis,Carnizaria,2.15,Precio por kilo
-15,Chuletas de Contramuslo de Pavo,gadis,Carnizaria,5.75,Precio por kilo
-16,Centro Jamon Serrano Gran Reserva 18 Meses Curacion,MONTETUR,Chacineria,10.95,Precio por kilo
-17,Jamon Cocido Braseado Premier,ARGAL,Chacineria,5.99,Precio por kilo
-18,Fiambre Sandwich 11 x 11 sin Gluten,EL POZO,Chacineria,4.95,Precio por kilo
-19,Chorizo o Salchichon Extra Cular Salamanca,DIAZ,Chacineria,10.95,Precio por kilo
-20,Lomo de Cebo 50% Raza Iberica,ESENCIA,Chacineria,29.95,Precio por kilo
-21,Queso Viejo de Oveja,FLOR DE ESGUEVA,Queixos,13.92,Precio por kilo
-22,Queso Barra,MONTECASTILLO,Queixos,5.95,Precio por kilo
-23,Queso Semicurado,EL GRAN CARDENAL,Queixos,8.95,Precio por kilo
-24,Queso D.O. Arzua-Ulloa Pieza Grande,ANDOLINA,Queixos,5.99,Precio por kilo
-25,Queso Fresco,EL VENTERO,Queixos,5.5,Precio por kilo
-26,Mango Palmer,gadis,Froitaría,1.85,"Categoría 1ª (420-620 g).
+id,nome,marca,categoria,precio,desconto,granel,descripcion
+1,Gamba Pelada Mediana 70/88,IFA ELIGES,Conxelados,4.15,0,false,360 g PN. (11.53€ Kilo)
+2,Vieira Pacífico Concha Extra Grande,NOVAS Y MAR,Conxelados,8.99,0,false,10 uds. (0.90€ Unidade)
+3,Buñuelos de Bacalao,PESCANOVA,Conxelados,2.59,0,false,300 g (8.63€ Kilo)
+4,Vieira del Pacífico Media Concha,NOVAS Y MAR,Conxelados,6.49,0,false,12 uds. (0.54€ Unidad)
+5,Anilla Pota Congelada,IFA ELIGES,Conxelados,3.29,0,false,400 g (8.23€ Kilo)
+6,Chipiron Patagonico Extra,gadis,Peixaria,5.9,0,false,Precio por kilo
+7,Langostino Crudo y Cocido Grande 30/40,gadis,Peixaria,8.9,0,false,Precio por kilo
+8,Lomos de Bacalao Desalado,gadis,Peixaria,12.9,0,false,Precio por kilo
+9,Lubina Acuicultura,gadis,Peixaria,7.75,0,false,Precio por kilo
+10,Ternera para Asar sin Hueso,gadis,Carnizaria,7.99,0.1,false,Precio por kilo
+11,Falda de Ternera con Hueso,gadis,Carnizaria,7.25,0,false,Precio por kilo
+12,Burger Meat Estilo Casero,gadis,Carnizaria,6.85,0,false,Precio por kilo
+13,Filetes de Cerdo,gadis,Carnizaria,4.45,0,false,Precio por kilo
+14,Traseros de Pollo,gadis,Carnizaria,2.15,0,false,Precio por kilo
+15,Chuletas de Contramuslo de Pavo,gadis,Carnizaria,5.75,0,false,Precio por kilo
+16,Centro Jamon Serrano Gran Reserva 18 Meses Curacion,MONTETUR,Chacineria,10.95,0,false,Precio por kilo
+17,Jamon Cocido Braseado Premier,ARGAL,Chacineria,5.99,0,false,Precio por kilo
+18,Fiambre Sandwich 11 x 11 sin Gluten,EL POZO,Chacineria,4.95,0,false,Precio por kilo
+19,Chorizo o Salchichon Extra Cular Salamanca,DIAZ,Chacineria,10.95,0,false,Precio por kilo
+20,Lomo de Cebo 50% Raza Iberica,ESENCIA,Chacineria,29.95,0.2,false,Precio por kilo
+21,Queso Viejo de Oveja,FLOR DE ESGUEVA,Queixos,13.92,0,false,Precio por kilo
+22,Queso Barra,MONTECASTILLO,Queixos,5.95,0,false,Precio por kilo
+23,Queso Semicurado,EL GRAN CARDENAL,Queixos,8.95,0,false,Precio por kilo
+24,Queso D.O. Arzua-Ulloa Pieza Grande,ANDOLINA,Queixos,5.99,0,false,Precio por kilo
+25,Queso Fresco,EL VENTERO,Queixos,5.5,0,false,Precio por kilo
+26,Mango Palmer,gadis,Froitaría,1.85,0,true,"Categoría 1ª (420-620 g).
  Precio por kilo"
-27,Kiwi Hayward,gadis,Froitaría,1.89,"(105-115 g).
+27,Kiwi Hayward,gadis,Froitaría,1.89,0,true,"(105-115 g).
  Precio por kilo"
-28,Platano Ecologico,gadis,Froitaría,1.49,"16 cm.
+28,Platano Ecologico,gadis,Froitaría,1.49,0,true,"16 cm.
  Precio por kilo"
-29,Limon,gadis,Froitaría,0.95,"Categoria 1ª. Calibre 58/72 mm.
+29,Limon,gadis,Froitaría,0.95,0,true,"Categoria 1ª. Calibre 58/72 mm.
  Precio por kilo"
-30,Manzana Royal Gala,gadis,Froitaría,1.19,"Categoria 1ª. Calibre 75/90 mm.
+30,Manzana Royal Gala,gadis,Froitaría,1.19,0.3,true,"Categoria 1ª. Calibre 75/90 mm.
  Precio por kilo"
-31,Yogur Vitalinea,DANONE,Neveira,1,"Natural, Natural Edulcorado, Sabor Limon, Fresa, Piña, Coco o Frutas del bosque
+31,Yogur Vitalinea,DANONE,Neveira,1,0,false,"Natural, Natural Edulcorado, Sabor Limon, Fresa, Piña, Coco o Frutas del bosque
  Pack 4 x 120 g (2.08€ Kilo)"
-32,Bifidus Activia Cremoso,DANONE,Neveira,1.69,"0% Vainilla, Lima Limon, Coco, 0% Cocktail Frutas, 0% Frutos Silvestres o 0% Mango
+32,Bifidus Activia Cremoso,DANONE,Neveira,1.69,0,false,"0% Vainilla, Lima Limon, Coco, 0% Cocktail Frutas, 0% Frutos Silvestres o 0% Mango
  Pack 4 x 120 g (3.52€ Kilo)"
-33,Mantequilla,C.L.ASTURIANA,Neveira,1.99,250 g (7.96€ Kilo)
-34,Nata Montar,C.L.ASTURIANA,Neveira,3.15,Brik 1 L
-35,Napolitana,IFA ELIGES,Panadaria,0.85,"Bolsa 8 uds, 320 g
+33,Mantequilla,C.L.ASTURIANA,Neveira,1.99,0,false,250 g (7.96€ Kilo)
+34,Nata Montar,C.L.ASTURIANA,Neveira,3.15,0,false,Brik 1 L
+35,Napolitana,IFA ELIGES,Panadaria,0.85,0,false,"Bolsa 8 uds, 320 g
 (2.66€ Kilo)"
-36,Magdalenas Redondas Envoltorio Individual,HERAS,Panadaria,1.85,800 g (2.31€ Kilo)
-37,Donuts XO Dabiz Muñoz,DONUTS,Panadaria,1.59,"2 uds., 146 g
+36,Magdalenas Redondas Envoltorio Individual,HERAS,Panadaria,1.85,0,false,800 g (2.31€ Kilo)
+37,Donuts XO Dabiz Muñoz,DONUTS,Panadaria,1.59,0,false,"2 uds., 146 g
 (10.89€ Kilo)"
-38,Pan Sandwich Familiar,BIMBO,Panadaria,1.69,700 g (2.41€ Kilo)
-39,Mediterraneas,SNATT'S,Panadaria,1,"Olivas y Romero o Tomate-Finas Hierbas
+38,Pan Sandwich Familiar,BIMBO,Panadaria,1.69,0,false,700 g (2.41€ Kilo)
+39,Mediterraneas,SNATT'S,Panadaria,1,0,false,"Olivas y Romero o Tomate-Finas Hierbas
 110 g (9.09€ Kilo)"
-40,Leche Entera,FEIRACO,Alimentacion,0.76,Brik 1 L
-41,Leche,FEIRACO,Alimentacion,0.73,"Semidesnatada o Destanada
+40,Leche Entera,FEIRACO,Alimentacion,0.76,0.4,false,Brik 1 L
+41,Leche,FEIRACO,Alimentacion,0.73,0,false,"Semidesnatada o Destanada
 Brik 1 L"
-42,Cacao Soluble,COLA CAO,Alimentacion,6.45,"Ecobolsa 1.2 Kg
+42,Cacao Soluble,COLA CAO,Alimentacion,6.45,0,false,"Ecobolsa 1.2 Kg
 5.38€ Kilo"
-43,Galletas Napolitanas,CUETARA,Alimentacion,1.59,Caja 500 g (3.18€ Kilo)
-44,Aceite Oliva Virgen Extra,CARBONELL,Alimentacion,3.39,Botella 1 L
-45,Alimento para Perro Adulto Active Buey,FRISKIES,Mascotas,17.95,15 Kg (1.20€ Kilo)
-46,Alimento Periquitos,IFA AMIGO,Mascotas,0.6,500 g (1.20€ Kilo)
-47,Alimento Gato Mousse,IFA AMIGO,Mascotas,0.35,"Con Buey, Salmon y gambas o con Atun 
+43,Galletas Napolitanas,CUETARA,Alimentacion,1.59,0,false,Caja 500 g (3.18€ Kilo)
+44,Aceite Oliva Virgen Extra,CARBONELL,Alimentacion,3.39,0,false,Botella 1 L
+45,Alimento para Perro Adulto Active Buey,FRISKIES,Mascotas,17.95,0,false,15 Kg (1.20€ Kilo)
+46,Alimento Periquitos,IFA AMIGO,Mascotas,0.6,0,false,500 g (1.20€ Kilo)
+47,Alimento Gato Mousse,IFA AMIGO,Mascotas,0.35,0,false,"Con Buey, Salmon y gambas o con Atun 
 85 g (4.12€ Kilo)"
-48,Agua Mineral Natural,IFA ELIGES,Bebidas,0.14,500 ml (0.28€ Kilo)
-49,Refresco Normal,COCA-COLA,Bebidas,1.19,Botella 1.25 L (0.95€ Kilo)
-50,Cerveza 1906,ESTRELLA GALICIA,Bebidas,10.9,"Botella pack 12 x 33 cl
+48,Agua Mineral Natural,IFA ELIGES,Bebidas,0.14,0,false,500 ml (0.28€ Kilo)
+49,Refresco Normal,COCA-COLA,Bebidas,1.19,0,false,Botella 1.25 L (0.95€ Kilo)
+50,Cerveza 1906,ESTRELLA GALICIA,Bebidas,10.9,0.5,false,"Botella pack 12 x 33 cl
  (2.75€ Kilo)"
-51,Ron,BRUGAL,Bebidas,16.39,Botella 1 L
-52,Refresco,KAS,Bebidas,3.15,"Naranja o Limon 
+51,Ron,BRUGAL,Bebidas,16.39,0,false,Botella 1 L
+52,Refresco,KAS,Bebidas,3.15,0,false,"Naranja o Limon 
  Lata Pack 9x33 cl
 (1.06€ Litro)"
