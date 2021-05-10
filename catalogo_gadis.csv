@@ -1,69 +1,75 @@
-id,nome,marca,categoria,precio,desconto,granel,descripcion
-1,Gamba Pelada Mediana 70/88,IFA ELIGES,Conxelados,4.15,0,false,360 g PN. (11.53€ Kilo)
-2,Vieira Pacífico Concha Extra Grande,NOVAS Y MAR,Conxelados,8.99,0,false,10 uds. (0.90€ Unidade)
-3,Buñuelos de Bacalao,PESCANOVA,Conxelados,2.59,0,false,300 g (8.63€ Kilo)
-4,Vieira del Pacífico Media Concha,NOVAS Y MAR,Conxelados,6.49,0,false,12 uds. (0.54€ Unidad)
-5,Anilla Pota Congelada,IFA ELIGES,Conxelados,3.29,0,false,400 g (8.23€ Kilo)
-6,Chipiron Patagonico Extra,gadis,Peixaria,5.9,0,false,Precio por kilo
-7,Langostino Crudo y Cocido Grande 30/40,gadis,Peixaria,8.9,0,false,Precio por kilo
-8,Lomos de Bacalao Desalado,gadis,Peixaria,12.9,0,false,Precio por kilo
-9,Lubina Acuicultura,gadis,Peixaria,7.75,0,false,Precio por kilo
-10,Ternera para Asar sin Hueso,gadis,Carnizaria,7.99,0.1,false,Precio por kilo
-11,Falda de Ternera con Hueso,gadis,Carnizaria,7.25,0,false,Precio por kilo
-12,Burger Meat Estilo Casero,gadis,Carnizaria,6.85,0,false,Precio por kilo
-13,Filetes de Cerdo,gadis,Carnizaria,4.45,0,false,Precio por kilo
-14,Traseros de Pollo,gadis,Carnizaria,2.15,0,false,Precio por kilo
-15,Chuletas de Contramuslo de Pavo,gadis,Carnizaria,5.75,0,false,Precio por kilo
-16,Centro Jamon Serrano Gran Reserva 18 Meses Curacion,MONTETUR,Chacineria,10.95,0,false,Precio por kilo
-17,Jamon Cocido Braseado Premier,ARGAL,Chacineria,5.99,0,false,Precio por kilo
-18,Fiambre Sandwich 11 x 11 sin Gluten,EL POZO,Chacineria,4.95,0,false,Precio por kilo
-19,Chorizo o Salchichon Extra Cular Salamanca,DIAZ,Chacineria,10.95,0,false,Precio por kilo
-20,Lomo de Cebo 50% Raza Iberica,ESENCIA,Chacineria,29.95,0.2,false,Precio por kilo
-21,Queso Viejo de Oveja,FLOR DE ESGUEVA,Queixos,13.92,0,false,Precio por kilo
-22,Queso Barra,MONTECASTILLO,Queixos,5.95,0,false,Precio por kilo
-23,Queso Semicurado,EL GRAN CARDENAL,Queixos,8.95,0,false,Precio por kilo
-24,Queso D.O. Arzua-Ulloa Pieza Grande,ANDOLINA,Queixos,5.99,0,false,Precio por kilo
-25,Queso Fresco,EL VENTERO,Queixos,5.5,0,false,Precio por kilo
-26,Mango Palmer,gadis,Froitaría,1.85,0,true,"Categoría 1ª (420-620 g).
+id,nome,marca,imaxe,categoria,precio,desconto,granel,descripcion
+1,Gamba Pelada Mediana 70/88,IFA ELIGES,https://congeladosnicholas.com/wp-content/uploads/2019/11/CX357-500x380.jpg,Conxelados,4.15,0,false,360 g PN. (11.53€ Kilo)
+2,Vieira Pacífico Concha Extra Grande,NOVAS Y MAR,https://www.lasirena.es/37725-thickbox_default/vieiras-pacifico-media-concha.jpg,Conxelados,8.99,0,false,10 uds. (0.90€ Unidade)
+3,Buñuelos de Bacalao,PESCANOVA,https://www.maheso.com/wp-content/uploads/congelados-maheso-bunuelos-bacalao-302.jpg,Conxelados,2.59,0,false,300 g (8.63€ Kilo)
+4,Vieira del Pacífico Media Concha,NOVAS Y MAR,https://www.lasirena.es/img/p/3/8/3/5/1/38351.jpg,Conxelados,6.49,0,false,12 uds. (0.54€ Unidad)
+5,Anilla Pota Congelada,IFA ELIGES,https://lh3.googleusercontent.com/proxy/3JsXlkouigMVh1OiOqlUGoj5iMmuzjpEJxngybZEgro9X_cnxX98RrZ5cXqVO3rdocIKFzWeR22Gr90hFLiwRZSHnHXSrlCb66xxuVlOgFbWRLyPBuCSIkNW8kFMcA,Conxelados,3.29,0,false,400 g (8.23€ Kilo)
+6,Chipiron Patagonico Extra,gadis,https://i.ibb.co/xCfVLjj/chipiron.png,Peixaria,5.9,0,false,Precio por kilo
+7,Langostino Crudo y Cocido Grande 30/40,gadis,https://i.ibb.co/VVjyP27/langostinos.png,Peixaria,8.9,0,false,Precio por kilo
+8,Lomos de Bacalao Desalado,gadis,https://i.ibb.co/WkZ6439/bacalao.png,Peixaria,12.9,0,false,Precio por kilo
+9,Lubina Acuicultura,gadis,https://i.ibb.co/5spyBVy/lubina.png,Peixaria,7.75,0,false,Precio por kilo
+10,Ternera para Asar sin Hueso,gadis,https://i.ibb.co/xXgbhqq/ternera.png,Carnizaria,7.99,0.1,false,Precio por kilo
+11,Falda de Ternera con Hueso,gadis,https://www.latiendadelpueblo.es/ficheros/productos/falda%20de%20ternera.jpg,Carnizaria,7.25,0,false,Precio por kilo
+12,Burger Meat Estilo Casero,gadis,https://www.losreplicantes.com/images/articulos/16000/16665/s5.jpg,Carnizaria,6.85,0,false,Precio por kilo
+13,Filetes de Cerdo,gadis,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIOHmSa-lU8ATz9KKMuKsLXYzZdXwBqzw0eQ&usqp=CAU,Carnizaria,4.45,0,false,Precio por kilo
+14,Traseros de Pollo,gadis,https://www.supermercadoseljamon.com/documents/10180/892067/93006038_G.jpg,Carnizaria,2.15,0,false,Precio por kilo
+15,Chuletas de Contramuslo de Pavo,gadis,https://i2.wp.com/dimequeesviernes.com/wp-content/uploads/2014/01/Chuletas3.jpg,Carnizaria,5.75,0,false,Precio por kilo
+16,Centro Jamon Serrano Gran Reserva 18 Meses Curacion,MONTETUR,https://dmerka.com/wp-content/uploads/2021/01/6510879_F_001.jpg,Chacineria,10.95,0,false,Precio por kilo
+17,Jamon Cocido Braseado Premier,ARGAL,https://www.tuquetraes.com/imagenes/productos/productos_vipges/AP01002624.JPG,Chacineria,5.99,0,false,Precio por kilo
+18,Fiambre Sandwich 11 x 11 sin Gluten,EL POZO,https://d2j6dbq0eux0bg.cloudfront.net/images/21325011/1280323180.jpg,Chacineria,4.95,0,false,Precio por kilo
+19,Chorizo o Salchichon Extra Cular Salamanca,DIAZ,https://www.mercado47.com/Files/Images/References/2018/04/dfe498ed-2a88-40e7-8b5b-1fa04cf30290/bae63f2b-4b2d-4eb2-b516-ec56bdb6e52b.jpg,Chacineria,10.95,0,false,Precio por kilo
+20,Lomo de Cebo 50% Raza Iberica,ESENCIA,https://www.jamonesentresierras.com/wp-content/uploads/2015/06/lomo-iberico-recebo-3.jpg,Chacineria,29.95,0.2,false,Precio por kilo
+21,Queso Viejo de Oveja,FLOR DE ESGUEVA,https://www.flordeesgueva.es/imagenes/img_queso_viejo.jpg,Queixos,13.92,0,false,Precio por kilo
+22,Queso Barra,MONTECASTILLO,https://docplayer.es/docs-images/75/72002648/images/5-9.jpg,Queixos,5.95,0,false,Precio por kilo
+23,Queso Semicurado,EL GRAN CARDENAL,https://esqueso.es/public/Image/2018/12/GranCardenal_Original.jpg,Queixos,8.95,0,false,Precio por kilo
+24,Queso D.O. Arzua-Ulloa Pieza Grande,ANDOLINA,https://economia3.com/wp-content/uploads/2021/02/9.jpg,Queixos,5.99,0,false,Precio por kilo
+25,Queso Fresco,EL VENTERO,https://a0.soysuper.com/e4e0cff6a584b0646d10c954ca773400.1500.0.0.0.wmark.63def7cd.jpg,Queixos,5.5,0,false,Precio por kilo
+26,Mango Palmer,gadis,https://www.efectofruta.com/images/thumbs/Mango-variedad-Sensaci%C3%B3n.-1-0009070.jpeg,Froitaría,1.85,0,true,"Categoría 1ª (420-620 g).
  Precio por kilo"
-27,Kiwi Hayward,gadis,Froitaría,1.89,0,true,"(105-115 g).
+27,Kiwi Hayward,gadis,https://fidansepetim.com/uploads/p/p/4lu-Hayward-Kivi-Fidani-Paketi_1.jpg,Froitaría,1.89,0,true,"(105-115 g).
  Precio por kilo"
-28,Platano Ecologico,gadis,Froitaría,1.49,0,true,"16 cm.
+28,Platano Ecologico,gadis,http://www.tiendaecologicaenmadrid.com/161-thickbox_default/platano-ecologico.jpg,Froitaría,1.49,0,true,"16 cm.
  Precio por kilo"
-29,Limon,gadis,Froitaría,0.95,0,true,"Categoria 1ª. Calibre 58/72 mm.
+100,Limon,gadis,https://www.tucanaldesalud.es/es/teinteresa/espacio-comida-saludable/limones.ficheros/646384-propiedades-limones.jpg,Froitaría,0.95,0,true,"Categoria 1ª. Calibre 58/72 mm.
  Precio por kilo"
-30,Manzana Royal Gala,gadis,Froitaría,1.19,0.3,true,"Categoria 1ª. Calibre 75/90 mm.
+30,Manzana Royal Gala,gadis,https://www.jardineriaon.com/wp-content/uploads/2020/12/cutlivo-de-la-manzana-royal-gala.jpg,Froitaría,1.19,0.3,true,"Categoria 1ª. Calibre 75/90 mm.
  Precio por kilo"
-31,Yogur Vitalinea,DANONE,Neveira,1,0,false,"Natural, Natural Edulcorado, Sabor Limon, Fresa, Piña, Coco o Frutas del bosque
+31,Yogur Vitalinea,DANONE,https://st3.sedovin.com/3958/vitalinea-danone-0-natural-x-4-ud.jpg,Neveira,1,0,false,"Natural, Natural Edulcorado, Sabor Limon, Fresa, Piña, Coco o Frutas del bosque
  Pack 4 x 120 g (2.08€ Kilo)"
-32,Bifidus Activia Cremoso,DANONE,Neveira,1.69,0,false,"0% Vainilla, Lima Limon, Coco, 0% Cocktail Frutas, 0% Frutos Silvestres o 0% Mango
+32,Bifidus Activia Cremoso,DANONE,https://d2ohdpvxj0yo9f.cloudfront.net/products/yo/yogur-cremoso-0-frutas-silvestres-danone-activia-1-de-carrefour-market_m.jpg,Neveira,1.69,0,false,"0% Vainilla, Lima Limon, Coco, 0% Cocktail Frutas, 0% Frutos Silvestres o 0% Mango
  Pack 4 x 120 g (3.52€ Kilo)"
-33,Mantequilla,C.L.ASTURIANA,Neveira,1.99,0,false,250 g (7.96€ Kilo)
-34,Nata Montar,C.L.ASTURIANA,Neveira,3.15,0,false,Brik 1 L
-35,Napolitana,IFA ELIGES,Panadaria,0.85,0,false,"Bolsa 8 uds, 320 g
+33,Mantequilla,C.L.ASTURIANA,https://diario16.com/wp-content/uploads/2018/12/mantequilla.jpg,Neveira,1.99,0,false,250 g (7.96€ Kilo)
+34,Nata Montar,C.L.ASTURIANA,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7bUbyBtHpTkw-1i6t3CNEurprys5j1nREkw&usqp=CAU,Neveira,3.15,0,false,Brik 1 L
+35,Napolitana,IFA ELIGES,https://www.recetassinlactosa.com/wp-content/uploads/2015/01/Napolitanas-de-chocolate.jpg,Panadaria,0.85,0,false,"Bolsa 8 uds, 320 g
 (2.66€ Kilo)"
-36,Magdalenas Redondas Envoltorio Individual,HERAS,Panadaria,1.85,0,false,800 g (2.31€ Kilo)
-37,Donuts XO Dabiz Muñoz,DONUTS,Panadaria,1.59,0,false,"2 uds., 146 g
+36,Magdalenas Redondas Envoltorio Individual,HERAS,http://www.magdalenasdelasheras.com/images/public/productos/111011.jpg,Panadaria,1.85,0,false,800 g (2.31€ Kilo)
+37,Donuts XO Dabiz Muñoz,DONUTS,https://i0.wp.com/www.zampatelmundo.com/wp-content/uploads/2021/02/Donuts-XO-.jpeg?fit=1242%2C1234&ssl=1,Panadaria,1.59,0,false,"2 uds., 146 g
 (10.89€ Kilo)"
-38,Pan Sandwich Familiar,BIMBO,Panadaria,1.69,0,false,700 g (2.41€ Kilo)
-39,Mediterraneas,SNATT'S,Panadaria,1,0,false,"Olivas y Romero o Tomate-Finas Hierbas
+38,Pan Sandwich Familiar,BIMBO,https://www.bimbo.es/uploads/recetas-bimbo/pavo-queso-crema-aguacate-00.jpg,Panadaria,1.69,0,false,700 g (2.41€ Kilo)
+39,Mediterraneas,SNATT'S,https://pbs.twimg.com/media/CPGU5ezWUAEBAC9.png:large,Panadaria,1,0,false,"Olivas y Romero o Tomate-Finas Hierbas
 110 g (9.09€ Kilo)"
-40,Leche Entera,FEIRACO,Alimentacion,0.76,0.4,false,Brik 1 L
-41,Leche,FEIRACO,Alimentacion,0.73,0,false,"Semidesnatada o Destanada
+40,Leche Entera,FEIRACO,https://galiciacalidade.gal/assets/img/Feiraco_brik_entera_v01.png,Alimentacion,0.76,0.4,false,Brik 1 L
+41,Leche,FEIRACO,https://supermercado.galuresa.com/184-large_default/leche-desnatada-feiraco-brik-1-l.jpg,Alimentacion,0.73,0,false,"Semidesnatada o Destanada
 Brik 1 L"
-42,Cacao Soluble,COLA CAO,Alimentacion,6.45,0,false,"Ecobolsa 1.2 Kg
+42,Cacao Soluble,COLA CAO,https://www.gastronomicspain.com/3495-large_default/cola-cao-sobres.jpg,Alimentacion,6.45,0,false,"Ecobolsa 1.2 Kg
 5.38€ Kilo"
-43,Galletas Napolitanas,CUETARA,Alimentacion,1.59,0,false,Caja 500 g (3.18€ Kilo)
-44,Aceite Oliva Virgen Extra,CARBONELL,Alimentacion,3.39,0,false,Botella 1 L
-45,Alimento para Perro Adulto Active Buey,FRISKIES,Mascotas,17.95,0,false,15 Kg (1.20€ Kilo)
-46,Alimento Periquitos,IFA AMIGO,Mascotas,0.6,0,false,500 g (1.20€ Kilo)
-47,Alimento Gato Mousse,IFA AMIGO,Mascotas,0.35,0,false,"Con Buey, Salmon y gambas o con Atun 
+43,Galletas Napolitanas,CUETARA,https://sgfm.elcorteingles.es/SGFM/dctm/MEDIA03/202005/25/00120608200174____7__600x600.jpg,Alimentacion,1.59,0,false,Caja 500 g (3.18€ Kilo)
+44,Aceite Oliva Virgen Extra,CARBONELL,https://carbonell-oliveoil.com/themes/user/site/default/asset/img/blog/2000x873_imagen-apaisada-post-5.jpg,Alimentacion,3.39,0,false,Botella 1 L
+45,Alimento para Perro Adulto Active Buey,FRISKIES,https://static.zoomalia.com/prod_img/39916/la_511a760880003e7ddedfef56acb3b09697f1580735282.jpg,Mascotas,17.95,0,false,15 Kg (1.20€ Kilo)
+46,Alimento Periquitos,IFA AMIGO,https://flimar.com/4215-large_default/alimento-comp-ifa-periquitos-500g.jpg,Mascotas,0.6,0,false,500 g (1.20€ Kilo)
+47,Alimento Gato Mousse,IFA AMIGO,https://www.supermercadoseljamon.com/documents/10180/892067/35010414_G.jpg,Mascotas,0.35,0,false,"Con Buey, Salmon y gambas o con Atun 
 85 g (4.12€ Kilo)"
-48,Agua Mineral Natural,IFA ELIGES,Bebidas,0.14,0,false,500 ml (0.28€ Kilo)
-49,Refresco Normal,COCA-COLA,Bebidas,1.19,0,false,Botella 1.25 L (0.95€ Kilo)
-50,Cerveza 1906,ESTRELLA GALICIA,Bebidas,10.9,0.5,false,"Botella pack 12 x 33 cl
+48,Agua Mineral Natural,IFA ELIGES,https://www.supermercadoseljamon.com/documents/10180/892067/30050125_G.jpg,Bebidas,0.14,0,false,500 ml (0.28€ Kilo)
+49,Refresco Normal,COCA-COLA,https://images-na.ssl-images-amazon.com/images/I/51s2iLnf5bL._SL1000_.jpg,Bebidas,1.19,0,false,Botella 1.25 L (0.95€ Kilo)
+50,Cerveza 1906,ESTRELLA GALICIA,https://images-na.ssl-images-amazon.com/images/I/516EMeZYK%2BL._AC_.jpg,Bebidas,10.9,0.5,false,"Botella pack 12 x 33 cl
  (2.75€ Kilo)"
-51,Ron,BRUGAL,Bebidas,16.39,0,false,Botella 1 L
-52,Refresco,KAS,Bebidas,3.15,0,false,"Naranja o Limon 
+51,Ron,BRUGAL,https://static.carrefour.es/hd_510x_/img_pim_food/043484_00_1.jpg,Bebidas,16.39,0,false,Botella 1 L
+52,Refresco,KAS,https://static.carrefour.es/hd_510x_/img_pim_food/384252_00_1.jpg,Bebidas,3.15,0,false,"Naranja o Limon 
  Lata Pack 9x33 cl
 (1.06€ Litro)"
+53,Tomate fresco,IFA ELIGES,https://www.despensa.es/documents/10180/10736/040603_G.jpg,Alimentacion,0.45,0,false,"Tomate natural entero 
+Lata 250gr
+(1.88 €/kg)"
+54,Pastas con vegetales,Gallo,https://www.alimarket.es/media/images/2018/detalle_art/269263/81741_high_original.png,Alimentacion,1.15,0,false,"helices, pajaritas o pasta fina 
+ Pack 450gr 
+ (2.58 €/kg)"

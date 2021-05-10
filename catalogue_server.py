@@ -41,4 +41,5 @@ def get_id(id_number):
             info='There is no element with id ' + str(id_number)
         )
 
-app.run(host='192.168.8.106', port= 8090)
+#app.run(host='172.20.10.13', port= 8090)
+app.run(host='192.168.1.145', port= 8090)
